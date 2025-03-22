@@ -33,4 +33,4 @@ This project was completed as part of my **Executive Post Graduate Certification
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/financial-data-analysis.git
+   git clone https://github.com/Vivekkumar-ds/financial-data-analysis.git
